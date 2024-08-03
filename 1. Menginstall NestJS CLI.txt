@@ -6,4 +6,7 @@
 4. npm run build     // untuk compaile nest js build",
 5. npm run start     // untuk menjalankan Aplikasi nest nya,
 6. npm run test      // untuk menjalankan unit testing
+
 7. npm run test:e2e  // untuk menjalankan unit test di folder ./test/jest-e2e.json"
+
+8. npm run start:dev  // untuk menjalankan nest dengan mode dev

@@ -1,0 +1,12 @@
+
+// HTTP Method Decorator :
+
+® @Get(path) untuk HTTP Get |
+® @Post(path) untuk HTTP Post |
+
+® @Put(path) untuk HTTP Put |
+o @Delete(path) untuk HTTP Delete |
+o @Patch(path) untuk HTTP Patch |
+® @Head(path) untuk HTTP Head |
+® @Options(path) untuk HTTP Option |
+© @All(path) untuk semua HTTP Method
