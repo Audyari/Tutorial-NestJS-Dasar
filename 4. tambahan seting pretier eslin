@@ -1,0 +1,25 @@
+
+1. https://www.teknisiserbabisa.com/2023/08/delete-cr-eslint-prettierprettier-error.html
+
+2. .eslintrc.js
+
+    module.exports = {
+  rules: {
+    "prettier/prettier": [
+      "error",
+      { endOfLine: "auto" }
+    ],
+  },
+};
+
+
+3. .prettierrc.js
+
+module.exports = {
+  "endOfLine": "auto",
+};
+
+
+4. # NPM
+npm run lint -- --fix
+
