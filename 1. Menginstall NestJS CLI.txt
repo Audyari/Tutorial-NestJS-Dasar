@@ -1,0 +1,9 @@
+// Menginstall NestJS CLI
+
+1. npm install -g @nestjs/cli
+2. nest
+3. nest new nama-project
+4. npm run build     // untuk compaile nest js build",
+5. npm run start     // untuk menjalankan Aplikasi nest nya,
+6. npm run test      // untuk menjalankan unit testing
+7. npm run test:e2e  // untuk menjalankan unit test di folder ./test/jest-e2e.json"
