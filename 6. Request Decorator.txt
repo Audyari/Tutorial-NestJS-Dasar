@@ -1,0 +1,10 @@
+
+//Request Decorator
+
+@Req() untuk express.Request 
+@Param(key?) untuk req.params.key?
+@Body(key?) untuk req.body.key?
+@Query(key?) untuk req.query.key?
+@Header(key?) untuk req.headers.key?
+@Ip() untuk req.ip
+@HostParam() untuk req.hosts
